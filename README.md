@@ -28,22 +28,5 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kalavhan&theme=tokyonight&show_icons=true" alt="kalavhan" /></p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Add your Github profile Readme](https://medium.com/@josue.brigido1/add-your-github-profile-readme-2030d2d5f841?source=rss-301e05252378------2)
-- [Avoid N + 1 problem in Rails](https://medium.com/@josue.brigido1/avoid-n-1-problem-in-rails-b49dedbe5500?source=rss-301e05252378------2)
-- [Grid vs. Flexbox: a useless battle](https://medium.com/@josue.brigido1/grid-vs-flexbox-a-useless-battle-1e7b6576a471?source=rss-301e05252378------2)
-<!-- BLOG-POST-LIST:END -->
-
-  
-
-
-
-- 🚀 I’m currently learning Devops,symfony and .Net;
-- 💬 Ask me about anything, I am happy to help;
-
-
-</br>
-
 
 
