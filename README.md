@@ -1,4 +1,4 @@
-### Hi there , I'm Soumaya Hadidane 👋👋
+### Hi there , I'm Soumaya Hadidane 👋�
 
 <!--
 **soumaya871/soumaya871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Soumaya Hadidane/a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/soumayahadidane)
 
 
 ### Glad to see you here! &nbsp; !
