@@ -30,12 +30,14 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" wdth="20px" />
 <img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soumaya871&theme=tokyonight&show_icons=true" alt="kalavhan" /></p>
 
 <img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soumaya871&theme=tokyonight&show_icons=true" alt="kalavhan" /></p>
+
+
 <br />
 
 
