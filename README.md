@@ -37,7 +37,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <br />
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kalavhan&theme=tokyonight&show_icons=true" alt="kalavhan" /></p>
 
 
 
