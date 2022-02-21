@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I am a full-stack software engineer . I love programming, writing, speaking and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-- 🚀 I’m currently learning Devops,symfony and .Net;
+- 🚀 I’m currently learning .Net6;
 - 💬 Ask me about anything, I am happy to help;
 ### Technology Stack:
 <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
