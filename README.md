@@ -26,6 +26,59 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🚀 I’m currently learning .Net6;
 - 💬 Ask me about anything, I am happy to help;
 ### Technology Stack:
+
+<p float="left">
+ <a href="https://www.java.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
+ </a>
+ <a href="https://www.android.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
+ </a>
+ <a href="https://www.python.org/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+ </a>
+ <a href="https://en.wikipedia.org/wiki/HTML">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
+ </a>
+ <a href="https://en.wikipedia.org/wiki/CCS3">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
+  </a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+  </a>
+ <a href="https://reactjs.org/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+  </a>
+ <a href="https://nodejs.org/en/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
+  </a>
+ <a href="https://dart.dev/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
+  </a>
+ <a href="https://kotlinlang.org/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
+  </a>
+ <a href="https://git-scm.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+  </a>
+ <a href="https://code.visualstudio.com/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+  </a>
+<a href="https://www.adobe.com/products/photoshop.html">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
+  </a>
+ <a href="https://www.adobe.com/products/illustrator.html">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40">
+  </a>
+</p>
+
+
+
+
+
+
+cccccccccccc
+
 <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
  <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="30 px" />  
 <img align="left" alt="Java" width="30px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" wdth="30px" />
