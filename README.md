@@ -55,21 +55,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
  <a href="https://dart.dev/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
   </a>
- <a href="https://kotlinlang.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
-  </a>
- <a href="https://git-scm.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a>
- <a href="https://code.visualstudio.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-  </a>
-<a href="https://www.adobe.com/products/photoshop.html">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
-  </a>
- <a href="https://www.adobe.com/products/illustrator.html">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40">
-  </a>
+
+
 </p>
 
 
