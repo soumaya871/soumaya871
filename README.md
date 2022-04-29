@@ -32,7 +32,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
  </a>
  <a href="https://angular.io/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
+<img alt="choubari" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="40">
  </a>
  <a href="https://www.python.org/">
 <img alt="choubari" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="40">
