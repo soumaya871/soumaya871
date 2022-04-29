@@ -31,11 +31,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
  <a href="https://www.java.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
  </a>
- <a href="https://www.android.com/">
+ <a href="https://angular.io/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
  </a>
  <a href="https://www.python.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+<img alt="choubari" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
